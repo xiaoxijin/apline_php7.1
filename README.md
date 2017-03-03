@@ -1,1 +1,1 @@
-# apline_php7.1
+# apline+ php7.1 基本环境
